@@ -28,5 +28,6 @@ series_note: Famous Scots Series, 4
 subjects:
 - !lcc 'BX'
 - !lcsh 'Knox, John, approximately 1514-1572'
+- GITenberg
 title: John Knox
 url: http://www.gutenberg.org/ebooks/22106
